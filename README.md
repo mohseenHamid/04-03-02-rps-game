@@ -8,9 +8,9 @@ The task was to create a Rock-Paper-Scissors game using only javascript.
 
 ```
 As a user:
-  * I want to play Rock, Paper, Scissors against an automated opponent
-  * I want the game to have multiple rounds
-  * I want to see my total wins, ties, and losses after 10 rounds
+  - I want to play Rock, Paper, Scissors against an automated opponent
+  - I want the game to have multiple rounds
+  - I want to see my total wins, ties, and losses after 10 rounds
 ```
 
 ## Acceptance Criteria
